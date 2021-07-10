@@ -14,7 +14,7 @@
 - 📝 Write stuff on [Medium](https://medium.com/@surajsnarsale), [Dev.to](https://dev.to/surajnarsale).
 - 💬 Ask me about anything [here](https://mail.google.com/mail/?view=cm&fs=1&to=surajsnarsale@gmail.com&su=&body=), I'm happy to help.
 - 😄 Pronouns: he/him
-- 🦸🏿‍♂️ Fun fact: `everything.map()`
+- 🦸🏿‍♂️ Fun fact: What do you call a programming party? `git bash` :trollface:
 
 <br>
 <h2>🚀💻 Technologies & Tools ⚒</h2>
