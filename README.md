@@ -7,12 +7,13 @@
 - 📝 Write stuff on [Medium](https://medium.com/@surajsnarsale), [Dev.to](https://dev.to/surajnarsale).
 - ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.html`, `.css`, `.scss` 
 - 💬 Ask me about anything [here](https://mail.google.com/mail/?view=cm&fs=1&to=surajsnarsale@gmail.com&su=&body=), I'm happy to help.
-- ⚡  What do you call a programming party? `git bash` :trollface:
 
 - 📫 Reach me:
    - [![Linkedin](https://img.shields.io/badge/-0A1A2F?style=social&logoWidth=20&logo=Linkedin)](https://www.linkedin.com/in/surajnarsale/)
        [![Twitter](https://img.shields.io/badge/--0A1A2F?style=social&logo=twitter)](https://twitter.com/surajnarsale_ )
       [![Instagram](https://img.shields.io/badge/--0A1A2F?style=social&logo=Instagram)](https://www.instagram.com/surajnarsale_/)
+
+
 
 
 <br>
