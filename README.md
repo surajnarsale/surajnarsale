@@ -1,4 +1,5 @@
-<img src="./assets/banner.gif" >
+[![Portfolio](./assets/banner.gif)](https://surajnarsale.com)
+<!-- <img src="./assets/banner.gif" > -->
 <b>A passionate fullstack developer, specializing in building exceptional websites & mobile applications, & everything in between.</b>
 <br>
 <br>
