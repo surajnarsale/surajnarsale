@@ -1,23 +1,22 @@
-<div align="center">
-<h2 > Hi there, I'm <a href="#" target="_blank">Suraj </a><img src="./assets/Hi.gif" width="20px"></h2> 
-<p >A passionate fullstack developer, specializing in building exceptional websites & mobile applications, & everything in between.</p>
-
-[![Linkedin](https://img.shields.io/badge/-0A1A2F?style=social&logoWidth=20&logo=Linkedin)](https://www.linkedin.com/in/surajnarsale/)
-[![Gmail](https://img.shields.io/badge/--0A1A2F?style=social&logo=Gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=surajsnarsale@gmail.com&su=&body=)
-[![Instagram](https://img.shields.io/badge/--0A1A2F?style=social&logo=Instagram)]()
-[![Dev.to](https://img.shields.io/badge/--0A1A2F?style=social&logo=Dev.to)](https://dev.to/surajnarsale)
-[![Medium](https://img.shields.io/badge/--0A1A2F?style=social&logo=Medium)](https://medium.com/@surajsnarsale)
-</div>
+<img src="./assets/banner.gif" >
+<b>A passionate fullstack developer, specializing in building exceptional websites & mobile applications, & everything in between.</b>
+<br>
 <br>
 
-- 🧐 Currently learning Typescript, Electron & everything🤣.
+- 🌱 Currently learning Typescript, Electron & everything🤣.
 - 📝 Write stuff on [Medium](https://medium.com/@surajsnarsale), [Dev.to](https://dev.to/surajnarsale).
+- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.html`, `.css`, `.scss` 
 - 💬 Ask me about anything [here](https://mail.google.com/mail/?view=cm&fs=1&to=surajsnarsale@gmail.com&su=&body=), I'm happy to help.
-- 😄 Pronouns: he/him
-- 🦸🏿‍♂️ Fun fact: `everything.map()`
+- ⚡  What do you call a programming party? `git bash` :trollface:
+
+- 📫 Reach me:
+   - [![Linkedin](https://img.shields.io/badge/-0A1A2F?style=social&logoWidth=20&logo=Linkedin)](https://www.linkedin.com/in/surajnarsale/)
+       [![Twitter](https://img.shields.io/badge/--0A1A2F?style=social&logo=twitter)](https://twitter.com/surajnarsale_ )
+      [![Instagram](https://img.shields.io/badge/--0A1A2F?style=social&logo=Instagram)](https://www.instagram.com/surajnarsale_/)
+
 
 <br>
-<h2>🚀💻 Technologies & Tools ⚒</h2>
+<h2>🚀Technologies & Tools </h2>
 <br>
 
 
