@@ -4,9 +4,9 @@
 <br>
 <br>
 
-- 🌱 Currently learning Typescript, Electron & everything🤣.
+- 🌱 Currently learning Solidity & everything.
 - 📝 Write stuff on [Medium](https://medium.com/@surajsnarsale), [Dev.to](https://dev.to/surajnarsale).
-- ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.html`, `.css`, `.scss` 
+- ⚙️ I use daily: `.js`, `.jsx`, `.ts`,`.tsx`, `.html`, `.css`, `.scss` 
 - 💬 Ask me about anything [here](https://mail.google.com/mail/?view=cm&fs=1&to=surajsnarsale@gmail.com&su=&body=), I'm happy to help.
 
 - 📫 Reach me:
