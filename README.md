@@ -25,7 +25,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
-![Gatsby](https://img.shields.io/badge/-Gatsby-0A1A2F?style=flat&logo=gatsby)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-0A1A2F?style=flat&logo=Vue.js)
 ![Redux](https://img.shields.io/badge/-Redux-0A1A2F?style=flat&logo=Redux)
 ![Three.js](https://img.shields.io/badge/-Three.js-0A1A2F?style=flat&logo=Three.js)
