@@ -1,63 +1,65 @@
-[![Portfolio](./assets/banner.gif)](https://surajnarsale.com)
-<!-- <img src="./assets/banner.gif" > -->
-<b>A passionate fullstack developer, specializing in building exceptional websites & mobile applications, & everything in between.</b>
-<br>
-<br>
+[![Portfolio](./assets/banner.gif)](https://surajnarsale.dev)
 
-- 🌱 Currently learning Solidity & everything.
-- 📝 Write stuff on [Medium](https://medium.com/@surajsnarsale), [Dev.to](https://dev.to/surajnarsale).
-- ⚙️ I use daily: `.js`, `.jsx`, `.ts`,`.tsx`, `.html`, `.css`, `.scss` 
-- 💬 Ask me about anything [here](https://mail.google.com/mail/?view=cm&fs=1&to=surajsnarsale@gmail.com&su=&body=), I'm happy to help.
+<h2 align="center">👋 Hey, I'm Suraj Narsale</h2>
+<p align="center">
+  Technical Lead & Frontend Engineer<br/>
+  <b>I design systems that feel good to use — and hold up in production.</b>
+</p>
 
-- 📫 Reach me:
-   - [![Linkedin](https://img.shields.io/badge/-0A1A2F?style=social&logoWidth=20&logo=Linkedin)](https://www.linkedin.com/in/surajnarsale/)
-       [![Twitter](https://img.shields.io/badge/--0A1A2F?style=social&logo=twitter)](https://twitter.com/surajnarsale_ )
-      [![Instagram](https://img.shields.io/badge/--0A1A2F?style=social&logo=Instagram)](https://www.instagram.com/surajnarsale_/)
+---
 
+### 🧠 How I Work
 
+I write code like I design — modular, testable, and hard to break.  
+I enjoy solving the invisible problems:  
+performance bottlenecks, messy state, poor DX, and architectural sprawl.  
 
+I care about:
+- clean boundaries between design and logic  
+- scaling frontends without losing clarity  
+- containerized environments that stay predictable  
+- using AI to turn messy input into structured meaning  
 
-<br>
-<h2>🚀Technologies & Tools </h2>
-<br>
+Mostly, I build in **React**, **Next.js**, **Node**, **Go**, and lately, **Rust**.  
+Always keeping **Docker** and **Kubernetes** close by.
 
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-0A1A2F?style=flat&logo=Vue.js)
-![Redux](https://img.shields.io/badge/-Redux-0A1A2F?style=flat&logo=Redux)
-![Three.js](https://img.shields.io/badge/-Three.js-0A1A2F?style=flat&logo=Three.js)
+### 🧩 Tech I Touch Often
 
-![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-0A1A2F?style=flat&logo=Express)
-![GraphQl](https://img.shields.io/badge/-GraphQL-0A1A2F?style=flat&logo=GraphQl)
+React · Next.js · TypeScript · Node.js · Go · .NET · Rust (learning)  
+Figma · Docker · Kubernetes · GCP · Supabase
 
-![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
-![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
-![Blender](https://img.shields.io/badge/-Blender-0A1A2F?style=flat&logo=blender)
-![Adobe Illustrator](https://img.shields.io/badge/-AdobeIllustrator-0A1A2F?style=flat&logo=AdobeIllustrator)
+---
 
+### 🧭 Philosophy
 
+> Software should be calm under load and clear to read.
 
-![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+> Whether it’s a design system or a backend service, I try to make it simple enough that six months later, it still makes sense.
 
-![Sass](https://img.shields.io/badge/-Sass-0A1A2F?style=flat&logo=Sass)
-![Styled Components](https://img.shields.io/badge/-StyledComponents-0A1A2F?style=flat&logo=Styledcomponents)
-![Tailwind](https://img.shields.io/badge/-Tailwind-0A1A2F?style=flat&logo=Tailwindcss)
+---
 
-![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=Firebase)
-![Webpack](https://img.shields.io/badge/-Webpack-0A1A2F?style=flat&logo=Webpack)
-![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=Docker)
+### 🌐 Elsewhere
 
+<p align="center">
+  <a href="https://surajnarsale.dev">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A1A2F?style=for-the-badge&logo=firefox&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/surajnarsale">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://medium.com/@surajsnarsale">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+  <a href="https://twitter.com/surajnarsale_">
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-0A1A2F?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+</p>
 
+---
 
-</div>
-
-
-
-
-
-
-
-
+<p align="center">
+  <i>Learning Rust. Building AI systems. Still refactoring.</i><br/>
+  <small>— Suraj</small>
+</p>
