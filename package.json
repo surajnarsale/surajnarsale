@@ -1,0 +1,34 @@
+{
+  "name": "surajnarsale",
+  "version": "1.0.0",
+  "description": "[![Portfolio](./assets/banner.gif)](https://surajnarsale.dev)",
+  "main": "index.js",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts Banner assets/banner.gif --image-format=png --every-nth-frame=2",
+    "render:mp4": "remotion render src/index.ts Banner assets/banner.mp4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajnarsale/surajnarsale.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajnarsale/surajnarsale/issues"
+  },
+  "homepage": "https://github.com/surajnarsale/surajnarsale#readme",
+  "devDependencies": {
+    "@remotion/cli": "^4.0.448",
+    "@remotion/gif": "^4.0.448",
+    "@types/react": "^19.2.14",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "remotion": "^4.0.448",
+    "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "react-icons": "^5.6.0"
+  }
+}
